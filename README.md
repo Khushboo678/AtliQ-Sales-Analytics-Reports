@@ -20,11 +20,10 @@ Following are the features obtained from the Sales Analytics performed.\
 Technical and Soft Skills Used:\
 - [x] Proficiency in ETL methodology (Extract, Transform, Load).\
 - [x] Skills to generate a date table using Power Query.\
-- [ ] Ability to derive fiscal months and quarters.\
-
- Establishing data model relationships with Power Pivot.\
- Proficiency in incorporating supplementary data into an existing data model.\
- Utilizing DAX to create calculated columns.
+- [x] Ability to derive fiscal months and quarters.\
+- [x] Establishing data model relationships with Power Pivot.\
+- [x] Proficiency in incorporating supplementary data into an existing data model.\
+- [x] Utilizing DAX to create calculated columns.
 
 
 
