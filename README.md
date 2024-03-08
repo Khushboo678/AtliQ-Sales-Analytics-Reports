@@ -14,7 +14,10 @@ Following are the features obtained from the Sales Analytics performed.\
 ->Top 5 countries , New launched products in 2021 , Top 5 and Bottom 5 products and Division Wise Sales comparision between 2020 and 2021 in file <a href = "report_templates.pdf">Report Details </a>\
 ->Customer Wise performance in year 2020,2021 and its comparision in file <a href = "Customer wise performance.pdf">Customer's Year Wise Performance </a>\
 ->Market(Country Wise) performance report w.r.t target and actual sales and thus enabling stakeholders to assess the country's performance and compare it to set targets in file <a href = "Market Performance VS Target.pdf">Market Performance </a> \
-->P & L by months/quarters enables stakeholders to 
+->P & L by year/months/quarters enables stakeholders to align financial planning with strategic goals , can be seen in file <a href = "P & L by FIscal Year.pdf">P & L by Fiscal Year</a> and <a href = "P & L by Months.pdf">P & L by Months</a> respectively\
+->P & L by Market/Country and by sub-zone showcasing COGS, Net Sales and Gross Margin over period of years in file  <a href = "P & L by market.pdf">P & L by Market</a> and <a href = "GM % by sub-zone.pdf">GM % by Sub-Zone</a> respectively\
+
+
 
 
 
