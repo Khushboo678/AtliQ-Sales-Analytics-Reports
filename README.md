@@ -15,7 +15,15 @@ Following are the features obtained from the Sales Analytics performed.\
 ->Customer Wise performance in year 2020,2021 and its comparision in file <a href = "Customer wise performance.pdf">Customer's Year Wise Performance </a>\
 ->Market(Country Wise) performance report w.r.t target and actual sales and thus enabling stakeholders to assess the country's performance and compare it to set targets in file <a href = "Market Performance VS Target.pdf">Market Performance </a> \
 ->P & L by year/months/quarters enables stakeholders to align financial planning with strategic goals , can be seen in file <a href = "P & L by FIscal Year.pdf">P & L by Fiscal Year</a> and <a href = "P & L by Months.pdf">P & L by Months</a> respectively\
-->P & L by Market/Country and by sub-zone showcasing COGS, Net Sales and Gross Margin over period of years in file  <a href = "P & L by market.pdf">P & L by Market</a> and <a href = "GM % by sub-zone.pdf">GM % by Sub-Zone</a> respectively\
+->P & L by Market/Country and by sub-zone showcasing COGS, Net Sales and Gross Margin over period of years in file  <a href = "P & L by market.pdf">P & L by Market</a> and <a href = "GM % by sub-zone.pdf">GM % by Sub-Zone</a> respectively.\
+
+Technical and Soft Skills Used:
+[X]Proficiency in ETL methodology (Extract, Transform, Load).
+ Skills to generate a date table using Power Query.
+ Ability to derive fiscal months and quarters.
+ Establishing data model relationships with Power Pivot.
+ Proficiency in incorporating supplementary data into an existing data model.
+ Utilizing DAX to create calculated columns.
 
 
 
