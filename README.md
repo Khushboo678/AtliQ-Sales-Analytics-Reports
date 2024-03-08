@@ -17,8 +17,8 @@ Following are the features obtained from the Sales Analytics performed.\
 ->P & L by year/months/quarters enables stakeholders to align financial planning with strategic goals , can be seen in file <a href = "P & L by FIscal Year.pdf">P & L by Fiscal Year</a> and <a href = "P & L by Months.pdf">P & L by Months</a> respectively\
 ->P & L by Market/Country and by sub-zone showcasing COGS, Net Sales and Gross Margin over period of years in file  <a href = "P & L by market.pdf">P & L by Market</a> and <a href = "GM % by sub-zone.pdf">GM % by Sub-Zone</a> respectively\
 
-Technical and Soft Skills Used. \
-- [x] Proficiency in ETL methodology (Extract, Transform, Load). \
+## Technical and Soft Skills Used. 
+- [x] Proficiency in ETL methodology (Extract, Transform, Load)\
 - [x] Skills to generate a date table using Power Query. \
 - [x] Ability to derive fiscal months and quarters. \
 - [x] Establishing data model relationships with Power Pivot. \
